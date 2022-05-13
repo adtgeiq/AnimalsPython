@@ -3,7 +3,7 @@ import unittest
 from Animal import Animal
 from AnimalFactory import AnimalFactory
 from AnimalInterface import AnimalInterface
-from animales.Cat import Cat
+from animals.Cat import Cat
 
 
 class AnimalFactoryTest(unittest.TestCase):

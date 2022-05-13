@@ -1,5 +1,5 @@
-from animales.Cat import Cat
-from animales.Penguin import Penguin
+from animals.Cat import Cat
+from animals.Penguin import Penguin
 
 
 class AnimalFactory:
